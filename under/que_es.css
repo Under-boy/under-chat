@@ -1,0 +1,63 @@
+.menu{
+    text-align: center;
+    font-family: sans-serif;
+    list-style: none;
+    padding: 0;
+    background-color: blueviolet;
+    width: auto;
+    max-width: auto;
+    margin: auto;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: black;
+}
+.titulo{
+    color: white;
+    text-align: left;
+    font-family: sans-serif;
+    list-style: none;
+    margin: auto;;
+}
+.descrip{
+    color: white;
+    text-align: left;
+}
+.descrip h3{
+    color: white;
+}
+.descrip h4{
+    color: white;
+}
+.funciones{
+    color: white;
+}
+.funciones h3{
+    color: white;
+}
+.funciones h4{
+    color: white;
+}
+.conclucion{
+    color: white;
+}
+.conclucion h3{
+    color: white;
+}
+.conclucion h4{
+    color: white;
+}
+body{
+    background-color: black;
+    background-image: url("fondo\ under.jpg");
+    
+}

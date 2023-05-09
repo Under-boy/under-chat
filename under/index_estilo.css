@@ -1,0 +1,61 @@
+.menu{
+    text-align: center;
+    font-family: sans-serif;
+    list-style: none;
+    padding: 0;
+    background-color: blueviolet;
+    width: auto;
+    max-width: auto;
+    margin: auto;
+}
+.titulo{
+    text-align: center;
+    font-family: sans-serif;
+    list-style: none;
+    padding: 0;
+    background-color: blueviolet;
+    width: auto;
+    max-width: auto;
+    margin: auto;
+}
+.titulo h2{
+    color: white;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: black;
+}
+
+.logo{
+    display: flex;
+    justify-content: center ;
+    height: 200px;
+}
+
+body{
+    background-color: black;
+}
+
+.descripcion{
+    text-align: center;
+    font-family: sans-serif;
+    list-style: none;
+    padding: 0;
+    background-color: blueviolet;
+    width: auto;
+    max-width: auto;
+    margin: auto;
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
